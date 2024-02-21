@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Belajar kolaborasi menggunakan fork
+Belajar kolaborasi asik!
