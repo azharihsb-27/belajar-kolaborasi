@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Belajar kolaborasi menyenangkan!
+Belajar kolaborasi asyik!
