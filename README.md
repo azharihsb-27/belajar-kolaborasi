@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Belajar Github di Dicoding
+Belajar kolaborasi menggunakan fork
